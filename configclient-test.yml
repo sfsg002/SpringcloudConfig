@@ -1,4 +1,4 @@
 server:
   port: 8092
 
-testValue: 99999
+testValue: 888
